@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Logan
+# 🧑🏽‍💻 Pedro Logan
 
 **`Aprendendo Programação`**
 
